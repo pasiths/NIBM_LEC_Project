@@ -10,6 +10,14 @@ namespace Lec_3_Q_12
     {
         static void Main(string[] args)
         {
+            Bill bl = new Bill();
+            bl.inputs();
+            bl.salesAmount();
+            bl.display();
+            bl.purchaseQuantity();
+            bl.display();
+
+            Console.ReadKey();
         }
     }
 }
