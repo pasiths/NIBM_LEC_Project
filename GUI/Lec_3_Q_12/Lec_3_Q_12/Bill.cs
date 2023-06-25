@@ -8,9 +8,9 @@ namespace Lec_3_Q_12
 {
     internal class Bill
     {
-        public string name;
-        public int unitPrice;
-        public int quantity;
+        private string name;
+        private int unitPrice;
+        private int quantity;
 
         public void inputs()
         {
