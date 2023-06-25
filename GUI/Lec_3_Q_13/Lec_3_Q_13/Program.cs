@@ -20,7 +20,7 @@ namespace Lec_3_Q_13
             int assigmnet= Convert.ToInt32(Console.ReadLine());
 
             st.calAverage(exam, assigmnet);
-            st.findFinalresult();
+            st.findFinalResult();
             st.display();
 
             Console.ReadKey();

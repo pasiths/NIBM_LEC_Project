@@ -8,9 +8,9 @@ namespace Lec_3_Q_13
 {
     internal class Student
     {
-        public string name;
-        public double average;
-        public string finalResult;
+        private string name;
+        private double average;
+        private string finalResult;
 
         public void input()
         {
@@ -20,10 +20,10 @@ namespace Lec_3_Q_13
 
         public void calAverage(int exam,int assigment)
         {
-            average = (exam * assigment);
+            average = (exam + assigment) / 2;
         }
 
-        public void findFinalresult()
+        public void findFinalResult()
         {
             if (average >= 60)
             {
