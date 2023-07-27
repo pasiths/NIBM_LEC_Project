@@ -1,8 +1,0 @@
-C:\Users\PaSiYa\Desktop\C# .NET\pasiths\NIBM_LEC_Project\GUI\Lec_2_Q_9\Lec_2_Q_9\bin\Debug\Lec_2_Q_9.exe.config
-C:\Users\PaSiYa\Desktop\C# .NET\pasiths\NIBM_LEC_Project\GUI\Lec_2_Q_9\Lec_2_Q_9\bin\Debug\Lec_2_Q_9.exe
-C:\Users\PaSiYa\Desktop\C# .NET\pasiths\NIBM_LEC_Project\GUI\Lec_2_Q_9\Lec_2_Q_9\bin\Debug\Lec_2_Q_9.pdb
-C:\Users\PaSiYa\Desktop\C# .NET\pasiths\NIBM_LEC_Project\GUI\Lec_2_Q_9\Lec_2_Q_9\obj\Debug\Lec_2_Q_9.csproj.AssemblyReference.cache
-C:\Users\PaSiYa\Desktop\C# .NET\pasiths\NIBM_LEC_Project\GUI\Lec_2_Q_9\Lec_2_Q_9\obj\Debug\Lec_2_Q_9.csproj.SuggestedBindingRedirects.cache
-C:\Users\PaSiYa\Desktop\C# .NET\pasiths\NIBM_LEC_Project\GUI\Lec_2_Q_9\Lec_2_Q_9\obj\Debug\Lec_2_Q_9.csproj.CoreCompileInputs.cache
-C:\Users\PaSiYa\Desktop\C# .NET\pasiths\NIBM_LEC_Project\GUI\Lec_2_Q_9\Lec_2_Q_9\obj\Debug\Lec_2_Q_9.exe
-C:\Users\PaSiYa\Desktop\C# .NET\pasiths\NIBM_LEC_Project\GUI\Lec_2_Q_9\Lec_2_Q_9\obj\Debug\Lec_2_Q_9.pdb
