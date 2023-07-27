@@ -103,3 +103,10 @@ namespace justnow
         }
     }
 }
+
+namespace v
+{
+    class Form1 : Form
+    {
+    }
+}
